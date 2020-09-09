@@ -1,0 +1,67 @@
+.reveal, .reveal h1, .reveal h2, .reveal h3 {
+  font-family: "JetBrains Mono";
+}
+
+.reveal section img {
+  border: none;
+  box-shadow: none;
+}
+
+.reveal h1, .reveal h1.title, .reveal h2, .reveal a:hover {
+  color: hotpink;
+}
+
+.reveal h1.subtitle, .reveal strong, .reveal a {
+  color: lightskyblue;
+}
+
+.reveal blockquote {
+  box-shadow: none;
+}
+
+.reveal table, .reveal table th, .reveal table td {
+  border-style: none;
+}
+
+.reveal {
+  color: #30312e;
+}
+
+.reveal .progress span {
+  background: hotpink;
+}
+
+.reveal .controls .navigate-up.enabled {
+  border-bottom-color: hotpink;
+}
+
+.reveal .controls .navigate-left.enabled {
+  border-right-color: hotpink;
+}
+
+.reveal .controls .navigate-right.enabled {
+  border-left-color: hotpink;
+}
+
+.reveal .controls .navigate-down.enabled {
+  border-top-color: hotpink;
+}
+
+.reveal blockquote {
+  border: solid;
+  border-radius: 1.2em;
+  border-top-color: hotpink;
+  border-left-color: hotpink;
+  border-bottom-color: lightskyblue;
+  border-right-color: lightskyblue;
+}
+
+.reveal p {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.reveal h2.author {
+  color: lightskyblue;
+  margin: 60px 0 60px 0;
+}
