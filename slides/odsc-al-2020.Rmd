@@ -168,6 +168,8 @@ A simplified example from market research---where things can go wrong w.r.t. inf
 
 - AL resources at http://active-learning.net/
 
+- MEAP book by Robert Munro [Human-in-the-Loop Machine Learning](https://www.manning.com/books/human-in-the-loop-machine-learning)
+
 - [modAL](https://github.com/modAL-python/modAL)---highly modular, sk-learn compatible AL framework for Python
 
 - And a lot of great YouTube videos: [Microsoft Research](https://www.youtube.com/watch?v=FE1r7_SQq6Y), [ICML 2019](https://www.youtube.com/watch?v=_Ql5vfOPxZU), [UoM](https://www.youtube.com/watch?v=8Jwp4_WbRio), [Prendki](https://www.youtube.com/watch?v=V33Ut36eUsY)
